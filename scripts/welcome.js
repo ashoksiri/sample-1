@@ -1,2 +1,4 @@
-//this is logging to console.
-console.log("welcome js");
+(() => {
+
+    console.log("this is wolcome js");
+})();
